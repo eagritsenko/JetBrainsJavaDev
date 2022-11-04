@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="jetbrains.academy.javadev.ticktacktoe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jetbrains_academy_javadev_ticktacktoe_jar</output-path>
+    <root id="archive" name="jetbrains.academy.javadev.ticktacktoe.jar">
+      <element id="module-output" name="jetbrains.academy.javadev.ticktacktoe" />
+    </root>
+  </artifact>
+</component>

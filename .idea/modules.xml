@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jetbrains.academy.javadev.iml" filepath="$PROJECT_DIR$/jetbrains.academy.javadev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticktacktoe/jetbrains.academy.javadev.ticktacktoe.iml" filepath="$PROJECT_DIR$/ticktacktoe/jetbrains.academy.javadev.ticktacktoe.iml" />
+    </modules>
+  </component>
+</project>
